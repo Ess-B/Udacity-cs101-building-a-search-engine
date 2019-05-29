@@ -18,4 +18,3 @@ def stamps(num):
     return five_p, two_p, one_p
     
     
-    
