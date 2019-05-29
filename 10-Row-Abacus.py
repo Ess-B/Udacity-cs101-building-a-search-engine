@@ -60,4 +60,4 @@ def print_abacus(value):
         value = value / 10
         print  row [9 - n]
         n = n + 1
-       
+     
