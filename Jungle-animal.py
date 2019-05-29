@@ -25,4 +25,3 @@ def jungle_animal(animal, my_speed):
             print "Stay calm and wait!"
     else: 
         print "Introduce yourself!"
-
